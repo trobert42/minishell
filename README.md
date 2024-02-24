@@ -1,4 +1,4 @@
-# Minishell - mini hell - if you did it, you know hell
+# Minishell_ - if you did it, you know hell
 
 Minishell is a simplified shell implementation, providing a command-line interface where users can interact with the operating system by executing various commands.
 
@@ -26,3 +26,8 @@ Minishell is a simplified shell implementation, providing a command-line interfa
   make
   ./minishell
 ```
+
+## 💬
+This is the first big project in the common core and to do in teams. It was pretty hard with all the exceptions and little tiny details that we wanted to manage. But it forced us to be more rigorous!  
+
+Thank you Dan for your courage, you can be proud of your first garbage collector :) I won't forget all the breaks we took when we couldn't code anymore.
