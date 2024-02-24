@@ -1,4 +1,4 @@
-# Minishell_ - if you did it, you know hell
+# Minishell - if you did it, you know hell
 
 Minishell is a simplified shell implementation, providing a command-line interface where users can interact with the operating system by executing various commands.
 
